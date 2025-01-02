@@ -1,0 +1,12 @@
+{
+  "name": "Casper",
+  "version": "1.0.0",
+  "description": "بوت بسيط لـ Discord يسوي ردود تلقائية.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^18.0.0"
+  }
+}
